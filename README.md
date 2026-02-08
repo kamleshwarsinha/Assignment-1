@@ -1,5 +1,4 @@
-Assignment 1 – Basic Python Concepts
-## Module 2: Basic Python Concepts
+# Assignment 1 – Basic Python Concepts
 
 This repository contains solutions for Assignment 1 of the Python course.
 
@@ -28,6 +27,3 @@ python task2_personalized_greeting.py
 
 ## Requirements
 - Python 3.x
-
-## Author
-- Kamleshwar Sinha
